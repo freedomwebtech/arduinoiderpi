@@ -1,0 +1,6 @@
+
+raspberry pi app:- wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+
+
+
+https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
